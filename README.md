@@ -5,7 +5,7 @@
 
 - 🔎 Looking for **an apprenticeship** to further develop my skills and knowledge in the field
   
-- 🌱 I’m currently learning **Android development with Kotlin and Jetpack Compose**
+- 🌱 Currently learning **Android development with Kotlin and Jetpack Compose**
 
 - 💬 Ask me about just anything from my skills
 
