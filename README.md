@@ -2,8 +2,6 @@
 - 👨🏻‍💻 I'm Adam Palinkiewicz, **a passionate software developer** from Poznań, Poland
   
 - 🎓 Currently on my way to get the **Software Engineering Technician** title at Zespół Szkół Komunikacji
-
-- 🔎 Looking for **an internship** to further develop my skills and knowledge in the field
   
 - 🌱 Currently learning **Android development with Kotlin and Jetpack Compose**
 
